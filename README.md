@@ -1,0 +1,1 @@
+Allows for a toggleable color transition between colors, such as for a hover effect
